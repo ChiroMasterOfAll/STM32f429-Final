@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.18.1">
+  <Texts>
+    <Text Id="__SingleUse_TFJZ" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Proyecto Final</Translation>
+    </Text>
+    <Text Id="__SingleUse_N478" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">ADC: &lt;value&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_BX8C" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">65635</Translation>
+    </Text>
+    <Text Id="__SingleUse_DMXB" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">&lt;value&gt;.&lt;value&gt; F</Translation>
+    </Text>
+    <Text Id="__SingleUse_R5M5" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">100</Translation>
+    </Text>
+    <Text Id="__SingleUse_5SY4" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">00</Translation>
+    </Text>
+    <Text Id="__SingleUse_84KC" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Hi Temp: &lt;value&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_2SS2" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">100</Translation>
+    </Text>
+    <Text Id="__SingleUse_W4GS" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Lo Temp: &lt;value&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_0FXX" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">100</Translation>
+    </Text>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" FallbackCharacter="?" WildcardCharacterRanges="!-~" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>
